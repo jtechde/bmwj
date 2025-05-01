@@ -21,7 +21,7 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://www.mbrazil.site/scanner">
+  <a href="https://www. BWM-XMD-QUANTUM.site/scanner">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_MBRAZIL_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
   
