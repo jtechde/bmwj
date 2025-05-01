@@ -1,5 +1,5 @@
 {
-  "name": "Bwmxmd",
+  "name": "MBRAZIL MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -15,12 +15,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmwxmd",
+    "Mbrazilmd",
     "quantum",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "MBRAZIL"
   ],
-  "author": "Ibrahim Adams",
+  "author": "MBRAZIL",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
