@@ -30,12 +30,12 @@
     },
     "REPLY_STATUS_TEXT": {
       "description": "Enter here your message for your bot to notify people that you have viewed there status",
-      "value": "ʏᴏᴜʀ sᴛᴀᴛᴜs ʜᴀᴠᴇ ʙᴇᴇɴ ᴠɪᴇᴡᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅",
+      "value": "",
       "required": false
     },
     "AUTO_READ_STATUS": {
       "description": "Your status will be read automatically (type yes to activate or no to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_DOWNLOAD_STATUS": {
@@ -50,7 +50,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "MUHAYMAR-XMD",
       "required": false
     },
     "BOT_IMAGE": {
@@ -75,7 +75,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254777465416",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -90,17 +90,17 @@
     },
    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Ibrahim adams",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": BWM-XMD;;;H4sIAAAAAAAAA5VU25KqOBT9l7y2fRoRUKzqqkFUvKCieEGnTp0KEDByi0kAsct/n0K7q/thzpkenlJJWHtlr7XXG0gzzNAUVaD7BgjFBeSoXvKKINAFvTwIEAUN4EMOQRfoGu00lx3FNMjWyfVwIU2ifqeIhqMLsYrV7rBGk6EKpdlu8wpuDUByN8beHwAXVUsoidIUV0tsGsR+mU5JKxvu2pnrnaytZXsc22JhBMLsFdxqRIgpTsMBOaIEURhPUWVBTL9HH5kjapWuppRmECgHoyCDRe+8ORHBEkqrSTqGfWVV5xQL2vfol9rRhstBX/UuybxcL2KdMifnqoicA2JFh7tbo3Uo28kyfNBnOEyRP/ZRyjGvvt33wXC4o87Ow/sk6Z32rpPys7BR92fDFdze8nJW+URyVas1ir5HPO7visOuTASsIXFzGm7t8Xxhr5dpRrfRVU6uU1OCY6RUMftK3KIfXon+T9+n/WZaenQY6ewyN89Y5rGmvljzQbmaOyc9j3r77Ujqk72QfY++vdIcIVsltouEENuMzo/LjrtkazIKqrJVrZbDrRuV3Am/0Ic8p39i2btm8015yPor9UXl6X6HRb0FD0W5bfvrSXZSdGu09c6xPPenQc70qOkoQzEnKV7Z+9GiSlZTtL+MJ4SRYigmbgcNYW/5en9RhKqxD7rNWwNQFGLGKeQ4S+s9udkA0C9s5FHE790F882hWr0EHUM39/FuZnf4GkVTbUvGT2yi+nJL091rERqhOHgFDUBo5iHGkD/CjGe0miHGYIgY6P79swFSdOEP3epqrWYDBJgyvklzEmfQ/xD14xB6Xpan3K5ST68XiIKu8LmNOMdpyOo25imk3hEXSD9CzkA3gDFDtwbwUYE9VOOBypDSNLZy21AK1nTpr7nV65U15WOWPq54TeRKbkt4bivt4FnyAvjsIq/1LCJVDVRPlAMPgQbA7yNT//NbBfuaXVynE2rmq4vsZwYkxpMzN0Qh7dxVeLQeUeSDLqc5agAXelFO1lmE0j/gis7MmaijeO0vi5BM1APNKUnC/CWWvuA+JAXdt8+Y0jO/xttOeqba2Q9AAyR3B+L65aIstdttSZGlptJtKX+xH2XdSEjIjxRx0AAprG+DJD/CX1UCaV3qXYcaxEcc4pjVsTw9b8ROtBhMkjPtaIahsVDTQw186vbh/4fBzDaSD/OdmPQtdpaOSi5PkoxPTvsBOyzaXKvmKyNXhZEzzF7/BQR0AdzsVlZxeOlsnRTLVja7iKWEm9gTn9ZN9QTPGYxU+xRPtuVgTp+ubNLK5RLxrcP8cVaSwJR8Y03WVjScFfKOXKYXoVe+1tUe/vlajChJEhRHKZrttqZWzPp+ygvD6RhPO88Zlbq5UeKCqMF+nGZi7jN7c7TN5CU5JLOQce+Sr1VpIa91ku560JX3eeZO+uVjMu/JEL8nMr4Pzdu72wKM7gH3rsN/6vVpfOHW+ILxHpm/ix37qZXv1ltOwmt7mo8Rze3D2bT3Ys801nl7OTttVrTwe80LBLfbzwYgMeRBRhPQBfg+SKABYsi49jm6a5wgxmFCQLfZlmRFkFVRaYCk0gixOeQfEw+0+hubCNz+ASBJdwoMCAAA",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "1",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -135,7 +135,7 @@
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "GOODBYE_MESSAGE": {
